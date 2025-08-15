@@ -11,7 +11,7 @@
 - **Set up simulation systems** capturing curved adsorption phenomena at the atomic scale for efficient computation with LAMMPS.  
 - Wrote, tested, and employed **de-novo analysis scripts** to characterize how water, small molecule contaminants (mainly benzoic acid, but also naphthoic and anthroic acids), and carbon nanotube surfaces interact.
 
-**Team Contributions**  
+**Collaborative Contributions**  
 - Conducted wet-lab experiments to validate simulation predictions.  
 - Provided sorption capacity measurements from isotherm studies.  
 - Collaborated on joint interpretation of simulation and experimental data to confirm selective contaminant capture.
