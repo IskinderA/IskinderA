@@ -19,17 +19,17 @@ Prior to moving into this regulatory scientist role within a sterility and infec
 
 ## 🛠️ Technical Skills
 
-•	Sterilization & Surface Chemistry: Chemical sterilization of medical devices; adsorption and contaminant retention on complex surfaces
+•	**Sterilization & Surface Chemistry:** Chemical sterilization of medical devices; adsorption and contaminant retention on complex surfaces
 
-•	Materials Characterization & Testing: mechanical/processability testing, surface mass density measurement, adsorption isotherms (e.g., Freundlich model), microscopy, spectroscopy
+•	**Materials Characterization & Testing:** mechanical/processability testing, surface mass density measurement, adsorption isotherms (e.g., Freundlich model), microscopy, spectroscopy
 
-•	Materials Design & Simulation: Structure–property analysis of polymers and nanocomposites; molecular dynamics (LAMMPS, GROMACS); quantum calculations (Q-CHEM); finite-volume and diffusion modeling
+•	**Materials Design & Simulation:** Structure–property analysis of polymers and nanocomposites; molecular dynamics (LAMMPS, GROMACS); quantum calculations (Q-CHEM); finite-volume and diffusion modeling
 
-•	Programming & Analytical Tools: Python, Fortran, Bash, Jupyter, Mathematica, Matlab, Excel
+•	**Programming & Analytical Tools:** Python, Fortran, Bash, Jupyter, Mathematica, Matlab, Excel
 
-•	Data Science & Visualization: NumPy, Pandas, Matplotlib, SciPy, statistical fitting, machine learning applications
+•	**Data Science & Visualization:** NumPy, Pandas, Matplotlib, SciPy, statistical fitting, machine learning applications
 
-•	Technical Writing & Platforms: Scientific writing, stakeholder reporting, Git, LaTeX; operating systems: Linux and Windows
+•	**Technical Writing & Platforms:** Scientific writing, stakeholder reporting, Git, LaTeX; operating systems: Linux and Windows
 
 ## 💡 Open to Opportunites
 
