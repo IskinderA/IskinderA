@@ -34,6 +34,7 @@ Prior to moving into this regulatory scientist role within a sterility and infec
 ## 💡 Open to Opportunites
 
 I’m interested in opportunities where I can apply my expertise in **materials science, polymers, and data-driven modeling** to solve real-world challenges.  
+
 I enjoy roles that combine **applied R&D, regulatory science, sustainable materials innovation, and computational analysis**, especially in collaborative, interdisciplinary environments.  
 
 I’m open to contributing to projects that advance **product reliability, scientific consulting, or innovative problem-solving**, helping organizations turn experimental insights into actionable solutions.
