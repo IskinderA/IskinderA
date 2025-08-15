@@ -6,10 +6,11 @@ I am a materials and polymer scientist with a PhD from the University of Akron a
 Prior to moving into this regulatory scientist role within a sterility and infection control subprogram, I worked on two environmental molecular science projects. The first involved a physical chemistry study of the optimum surface capture of benzoic acid, a common water pollutant, using carbon nanotubes. The second involved the molecular design of viable bio-oil material substituents to traditional asphalt materials, which are known to have a large carbon footprint. Lastly, I have been a part of a highly interdisciplinary and exploratory/basic scientific research on prebiotically plausible cell-like structures with the goal of testing hypotheses on the origin of life on Early Earth and potentially elsewhere in the universe.
 
 ## 📂 Projects
-•	Improved medical device sterilization modality via vaporized hydrogen peroxide 
-•	Nanotechnological alternatives to water remediation
-• ‘Green’ asphalt material design
-•	Characterizing primitive membrane formation 
+- [Improved medical device sterilization modality via vaporized hydrogen peroxide](project-sterilization.md)
+- [Nanotechnological alternatives to water remediation](project-water.md)
+- [‘Green’ asphalt material design](project-asphalt.md)
+- [Characterizing primitive membrane formation](project-membranes.md)
+
 
 ## 🛠️ Technical Skills
 •	Sterilization & Surface Chemistry: Chemical sterilization of medical devices; adsorption and contaminant retention on complex surfaces
@@ -29,4 +30,13 @@ In my downtime, I enjoy activities that fuel creativity, community, and curiosit
 • Active in amateur and semi-professional music ensembles in the Washington, DC area and NE Ohio  
 • Engaged with local volunteer and secular discussion groups  
 • Passionate about promoting public awareness of science and advocating for the separation of religion and government  
+
+## 📫 Contact
+I’m always open to collaboration, project inquiries, or professional networking. You can reach me through:  
+
+**Email:** [your.email@example.com](mailto:your.email@example.com)  
+**LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)  
+**ORCID:** [orcid.org/0000-0000-0000-0000](https://orcid.org/)  
+**Google Scholar:** [scholar.google.com/citations?user=XXXX](https://scholar.google.com/)  
+
 
