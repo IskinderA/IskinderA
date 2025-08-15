@@ -1,7 +1,8 @@
-# Hi, I'm Iskinder 👋 ... landing page for 
+# WELCOME 👋
+Hi, I'm Iskinder! This page is a snapshot of my professional journey — past experiences, current work, and future interests.
 
 ## 🔬 Research Summary
-🔬 I am a materials and polymer scientist with a PhD from the University of Akron and many years of experience across academic as well as regulatory settings. My current role as a research fellow at the U.S. FDA focuses on sterilant transport through polymeric materials —a cross-disciplinary project involving materials chemistry, regulatory standards, and applied mathematics.
+🔬 I am a materials and polymer scientist with a PhD from the University of Akron and many years of experience across academic as well as regulatory settings. My current role as a research fellow at the U.S. FDA focuses on sterilant transport through polymeric materials — a cross-disciplinary project involving materials chemistry, regulatory standards, and applied mathematics.
 💡 I’m passionate about applying scientific insights to solve real-world problems—whether in product reliability, regulatory science, sustainable materials innovation, or scientific data analysis. I thrive in collaborative environments where I can bridge experimental findings and computational models, and I’m seeking opportunities in applied R&D, scientific consulting, or interdisciplinary problem-solving roles where I can help organizations innovate with confidence and scientific rigor.
 - PhD in Materials & Polymer Science (University of Akron)  
 - Research Fellow @ FDA: Sterilant transport in polymeric medical device materials  
