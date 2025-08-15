@@ -52,10 +52,6 @@ In my downtime, I enjoy activities that fuel creativity, community, and curiosit
 
 I’m always open to collaboration, project inquiries, or professional networking. You can reach me by [email](mailto:connectwithiskinder@gmail.com), or through:  
 
-[LinkedIn](https://www.linkedin.com/in/iskinder-arsano-334814316/)
-
-**LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)  
-**ORCID:** [orcid.org/0000-0000-0000-0000](https://orcid.org/)  
-**Google Scholar:** [scholar.google.com/citations?user=XXXX](https://scholar.google.com/)  
+| [LinkedIn](https://www.linkedin.com/in/iskinder-arsano-334814316/) | [ORCID](https://orcid.org/0000-0001-7284-1632) | [Google Scholar](https://scholar.google.com/citations?user=lcbbnUoAAAAJ&hl=en&oi=ao)  
 
 
