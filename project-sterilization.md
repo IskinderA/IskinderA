@@ -7,21 +7,21 @@ Main engagement hours: 30 hours/week
 
 ## Roles & Contributions
 
-<span style="color:magenta;">My Contributions</span>  
+My Contributions
 
-• <span style="color:magenta;">Developed semi-analytic mathematical models of sterilant diffusion</span> for a variety of material geometries with verification using in-house numerical tools.  
+• Developed semi-analytic mathematical models of sterilant diffusion</span> for a variety of material geometries with verification using in-house numerical tools.  
 
-• <span style="color:magenta;">Contributed to microbial killing kinetics calculations and procedure development</span> to determine VHP efficacy at doses predicted by the diffusion modeling.  
+• Contributed to microbial killing kinetics calculations and procedure development</span> to determine VHP efficacy at doses predicted by the diffusion modeling.  
 
-• <span style="color:magenta;">Interpreted and post-processed in-house experimental diffusion measurements</span> for VHP.
+• Interpreted and post-processed in-house experimental diffusion measurements</span> for VHP.
 
-<span style="color:blue;">Team Contributions</span>  
+Team Contributions  
 
-• <span style="color:blue;">Provided experimental diffusion measurements and validation</span> in different polymeric materials.  
+• Provided experimental diffusion measurements and validation</span> in different polymeric materials.  
 
-• <span style="color:blue;">Collaborated with microbiologists and industrial partners</span> to assess sterilization cycle parameters. 
+• Collaborated with microbiologists and industrial partners</span> to assess sterilization cycle parameters. 
 
-• <span style="color:blue;">Integrated findings to support potential policy changes</span> for safer sterilization practices.
+• Integrated findings to support potential policy changes</span> for safer sterilization practices.
 
 ---
 
