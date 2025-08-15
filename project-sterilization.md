@@ -1,7 +1,6 @@
 # Improved Medical Device Sterilization Modality via Vaporized Hydrogen Peroxide (VHP)
 
 Project duration: November 2022 – Present  
-Main engagement hours: 30 hours/week  
 
 ---
 
