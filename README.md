@@ -50,9 +50,8 @@ In my downtime, I enjoy activities that fuel creativity, community, and curiosit
 
 ## 📫 Contact
 
-I’m always open to collaboration, project inquiries, or professional networking. You can reach me through:  
+I’m always open to collaboration, project inquiries, or professional networking. You can reach me by [email](mailto:connectwithiskinder@gmail.com), or through:  
 
-**Email:** [your.email@example.com](mailto:your.email@example.com)  
 **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)  
 **ORCID:** [orcid.org/0000-0000-0000-0000](https://orcid.org/)  
 **Google Scholar:** [scholar.google.com/citations?user=XXXX](https://scholar.google.com/)  
