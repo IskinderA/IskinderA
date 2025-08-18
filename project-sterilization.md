@@ -18,11 +18,11 @@ My Contributions
 
 Collaborative Contributions  
 
-- Provided experimental diffusion measurements and validation</span> in different polymeric materials.  
+- Provided experimental diffusion **measurements and validation** in different polymeric materials.  
 
-- Collaborated with microbiologists and industrial partners</span> to assess sterilization cycle parameters. 
+- Collaborated with microbiologists and industrial partners to assess sterilization cycle parameters. 
 
-- Integrated findings to support potential policy changes</span> for safer sterilization practices.
+- Integrated findings to support potential policy changes for **safer sterilization practices.**
 
 ---
 
