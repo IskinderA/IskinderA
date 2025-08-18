@@ -28,4 +28,4 @@
 
 ## Associated Publications / Output
 
-Namani, T.; Ruf, R. J.; **Arsano, I.**; Hu, R.; Wesdemiotis, C.; Sahai, N. Novel Chimeric Amino Acid-Fatty Alcohol Ester Amphiphiles Self-Assemble into Stable Primitive Membranes in Diverse Geological Settings. Astrobiology, 23(3), 327–343, 2023. Available via Astrobiology Journal (free of charge)
+Namani, T.; Ruf, R. J.; **Arsano, I.**; Hu, R.; Wesdemiotis, C.; Sahai, N. Novel Chimeric Amino Acid-Fatty Alcohol Ester Amphiphiles Self-Assemble into Stable Primitive Membranes in Diverse Geological Settings. Astrobiology, 23(3), 327–343, 2023. [Available via Astrobiology Journal (free of charge)](https://www.liebertpub.com/doi/10.1089/ast.2022.0056)
