@@ -7,7 +7,8 @@
 ## Roles & Contributions
 
 **My Contributions**  
-- Drew conclusions about the selective **contaminant extraction function** of pure and surface-modified carbon nanotubes based on analysis of interfacial adsorptive structure and dynamics.  
+- Drew conclusions about the selective **contaminant extraction function** of pure and surface-modified carbon nanotubes based on analysis of interfacial adsorptive structure and dynamics.
+- 
 - **Set up simulation systems** capturing curved adsorption phenomena at the atomic scale for efficient computation with LAMMPS.  
 - Wrote, tested, and employed **de-novo analysis scripts** to characterize how water, small molecule contaminants (mainly benzoic acid, but also naphthoic and anthroic acids), and carbon nanotube surfaces interact.
 
