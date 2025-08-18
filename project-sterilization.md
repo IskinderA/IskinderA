@@ -8,13 +8,15 @@ Project duration: November 2022 – Present
 
 My Contributions
 
-• Developed semi-analytic mathematical models of sterilant diffusion</span> for a variety of material geometries with verification using in-house numerical tools.  
+• Developed semi-analytic **mathematical models** of sterilant diffusion for a variety of material geometries with verification using in-house numerical tools.
 
-• Contributed to microbial killing kinetics calculations and procedure development</span> to determine VHP efficacy at doses predicted by the diffusion modeling.  
+• Quantified **chemical migration** in single- and multi-layered polymeric systems, including **semi-crystalline** (e.g., polyetherurethane) and **amorphous** (e.g., silicone) materials, for industrial and clinical applications of **medical device sterilization**
+
+• Contributed to microbial killing kinetics calculations and procedure development to determine **sterilant efficacy** at doses predicted by the diffusion modeling.  
 
 • Interpreted and post-processed in-house experimental diffusion measurements</span> for VHP.
 
-Team Contributions  
+Collaborative Contributions  
 
 • Provided experimental diffusion measurements and validation</span> in different polymeric materials.  
 
