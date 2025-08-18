@@ -31,13 +31,15 @@ Prior to moving into this regulatory scientist role within a sterility and infec
 
 •	**Technical Writing & Platforms:** Scientific writing, stakeholder reporting, Git, LaTeX; operating systems: Linux and Windows
 
-## 💡 Open to Opportunites
+## 💡 Open to Opportunites and Service
 
 I’m interested in opportunities where I can apply my expertise in **materials science, polymers, and data-driven modeling** to solve real-world challenges.  
 
 I enjoy roles that combine **applied R&D, regulatory science, sustainable materials innovation, and computational analysis**, especially in collaborative, interdisciplinary environments.  
 
-I’m open to contributing to projects that advance **product reliability, scientific consulting, or innovative problem-solving**, helping organizations turn experimental insights into actionable solutions.
+I am open to contributing to projects that advance **product reliability, scientific consulting, or innovative problem-solving**, helping organizations turn experimental insights into actionable solutions.
+
+I also **welcome requests for professional service** including journal review, conference organization etc. from editors and others. So far, I have served as a peer reviewer for the following materials science and biophysics journals: Journal of Colloid and Interface Science (2 reviews), Journal of Physics and Chemistry of Solids (1 review), Progress in Biophysics and Molecular Biology (2 reviews), Materials Chemistry and Physics (2 reviews), Journal of Environmental Chemical Engineering (2 review). 
 
 ## 🎷 Outside the Lab
 
