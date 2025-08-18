@@ -25,4 +25,4 @@
 ## Associated Publications / Output
 
 Part of PhD Dissertation:
-**Arsano, I. Y.** Bio-Oil Modified Asphalt as a Novel and Improved Construction Material & Carbon Nanotubes for Targeted Adsorption of Benzoic Acid. Ph.D Diss., University of Akron, 2020. Available via OhioLINK (free of charge).
+**Arsano, I. Y.** Bio-Oil Modified Asphalt as a Novel and Improved Construction Material & Carbon Nanotubes for Targeted Adsorption of Benzoic Acid. Ph.D Diss., University of Akron, 2020. [Available via OhioLINK (free of charge)](https://etd.ohiolink.edu/acprod/odb_etd/etd/r/1501/10?clear=10&p10_accession_num=akron1596635907208643).
