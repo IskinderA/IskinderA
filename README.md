@@ -49,7 +49,10 @@ In my downtime, I enjoy activities that fuel creativity, community, and curiosit
 
 • Engaged with local volunteer and secular discussion groups  
 
-• Passionate about promoting public awareness of science and advocating for the separation of religion and government  
+• Passionate about promoting public awareness of science and advocating for the separation of religion and government 
+
+• Finally, I get the most joy out of spoiling my two cats, Helena and Harmony
+
 
 ## 📫 Contact
 
