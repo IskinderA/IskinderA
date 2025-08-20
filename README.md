@@ -21,7 +21,7 @@ Prior to moving into this regulatory scientist role within a sterility and infec
 
 •	**Sterilization & Surface Chemistry:** Chemical sterilization of medical devices; adsorption and contaminant retention on complex surfaces
 
-•	**Materials Characterization & Testing:** mechanical/processability testing, surface mass density measurement, adsorption isotherms (e.g., Freundlich model), microscopy, spectroscopy
+•	**Materials Characterization & Testing:** mechanical/processability testing, surface mass density measurement, adsorption isotherms (e.g., Freundlich model), microscopy, spectrometry
 
 •	**Materials Design & Simulation:** Structure–property analysis of polymers and nanocomposites; molecular dynamics (LAMMPS, GROMACS); quantum calculations (Q-CHEM); finite-volume and diffusion modeling
 
