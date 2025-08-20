@@ -39,7 +39,7 @@ I enjoy roles that combine **applied R&D, regulatory science, sustainable materi
 
 I am open to contributing to projects that advance **product reliability, scientific consulting, or innovative problem-solving**, helping organizations turn experimental insights into actionable solutions.
 
-I also **welcome requests for professional service** including journal review, conference organization etc. from editors and others. So far, I have served as a peer reviewer for the following materials science and biophysics journals: Journal of Colloid and Interface Science (2 reviews), Journal of Physics and Chemistry of Solids (1 review), Progress in Biophysics and Molecular Biology (2 reviews), Materials Chemistry and Physics (2 reviews), Journal of Environmental Chemical Engineering (2 review). 
+I also **welcome requests for professional service** including journal review, conference organization etc. from editors and others. So far, I have served as a peer reviewer for the following materials science and biophysics journals: Journal of Colloid and Interface Science (2 reviews), Journal of Physics and Chemistry of Solids (1 review), Progress in Biophysics and Molecular Biology (2 reviews), Materials Chemistry and Physics (2 reviews), Journal of Environmental Chemical Engineering (2 reviews). 
 
 ## 🎷 Outside the Lab
 
