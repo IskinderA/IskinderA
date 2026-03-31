@@ -1,4 +1,4 @@
-# Nanotechnological Alternatives to Water Remediation
+# Molecular Interactions and Adsorption at Material Interfaces
 
 **Project duration:** September 2016 – July 2022  
 
