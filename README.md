@@ -23,14 +23,15 @@ Prior to this work, my research explored a range of problems in molecular enviro
 
 ## 📂 Projects
 
-• [Improved medical device sterilization modality via vaporized hydrogen peroxide](project-sterilization.md)
+• [Transport and Reaction Modeling in Polymeric Systems for Sterilization and Material Performance](project-sterilization.md)
+
+• [Data-Driven Prediction of Molecular Transport in Polymer Systems](rapidScreening.md)
   
-• [Nanotechnological alternatives to water remediation](project-water.md)
+• [Molecular Interactions and Adsorption at Material Interfaces](project-water.md)
 
-• [‘Green’ asphalt material design](project-asphalt.md)
+• [Structure–Property Relationships in Complex Polymer Materials](project-asphalt.md)
 
-• [Characterizing primitive membrane formation](project-membranes.md)
-
+• [Self-Assembly and Stability of Amphiphilic Systems in Complex Environments](project-membranes.md)
 
 ## 💡 Open to Opportunites and Service
 
