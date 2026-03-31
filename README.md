@@ -29,7 +29,7 @@ Prior to this work, my research explored a range of problems in molecular enviro
 
 •	**Data Science & Machine Learning:** NumPy, Pandas, SciPy, Matplotlib, statistical modeling and fitting, machine learning for predictive modeling of material behavior and transport
 
-•	**Technical Communication & Tools:** Scientific writing, technical reporting, structured documentation, Git, LaTeX; operating systems: Linux and Windows
+•	**Technical Communication & Tools:** Scientific writing, technical reporting, structured documentation, Git, LaTeX; operating systems: MacOS, Linux, Windows
 
 ## 💡 Open to Opportunites and Service
 
