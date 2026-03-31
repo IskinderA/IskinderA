@@ -33,11 +33,11 @@ Prior to this work, my research explored a range of problems in molecular enviro
 
 ## 💡 Open to Opportunites and Service
 
-I am interested in opportunities where I can apply my expertise in materials science, polymers, and data-driven modeling to solve real-world challenges. My work is particularly aligned with roles that integrate applied R&D, computational analysis, and cross-functional collaboration to translate scientific insight into practical solutions.
+I am interested in opportunities where I can apply my expertise in **materials science, polymers, and data-driven modeling** to solve real-world challenges. My work is particularly aligned with roles that integrate **applied R&D, computational analysis, and cross-functional collaboration** to translate scientific insight into practical solutions.
 
-I am especially drawn to work that advances material performance, product reliability, and scientifically grounded decision-making, whether in development, evaluation, or innovation-focused settings. My background across both academic and regulatory environments enables me to approach problems with a balance of technical depth, quantitative rigor, and lifecycle-aware thinking.
+I am especially drawn to work that advances **material performance, product reliability, and scientifically grounded decision-making**, whether in development, evaluation, or innovation-focused settings. My background across both academic and regulatory environments enables me to approach problems with a balance of **technical depth, quantitative rigor, and lifecycle-aware thinking**.
 
-I also welcome opportunities for professional service and collaboration, including journal peer review, conference organization, and technical consultation. I have served as a reviewer for several materials science and biophysics journals, including Journal of Colloid and Interface Science, Journal of Physics and Chemistry of Solids, Progress in Biophysics and Molecular Biology, Materials Chemistry and Physics, and Journal of Environmental Chemical Engineering.
+I also welcome opportunities for **professional service and collaboration**, including journal peer review, conference organization, and technical consultation. I have served as a reviewer for several materials science and biophysics journals, including *Journal of Colloid and Interface Science, Journal of Physics and Chemistry of Solids, Progress in Biophysics and Molecular Biology, Materials Chemistry and Physics, and Journal of Environmental Chemical Engineering.*
 
 ## 🎷 Outside the Lab
 
