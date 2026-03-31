@@ -1,4 +1,5 @@
 # Self-Assembly and Stability of Amphiphilic Systems in Complex Environments
+*A simulation–experimental investigation of how molecular interactions and environmental conditions drive self-assembly and stability in amphiphilic systems*
 
 **Project duration:** September 2020 – March 2023
 
