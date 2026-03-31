@@ -4,23 +4,31 @@
 
 ## Roles & Contributions
 
-**My Contributions**
+### My Contributions
 
-- Recommended viable **bio-oil substituents** (e.g., soybean and corn oil fatty acids) to modify traditional asphalt binder compositions, employing an improved asphalt simulation model.
+- Investigated the incorporation of **bio-derived modifiers** (e.g., fatty acids from soybean and corn oil) into asphalt binders using molecular-scale simulation frameworks  
 
-- Wrote, tested, and applied de-novo analysis scripts to computationally evaluate **processability and mechanical behaviors** of modified asphalt binders.
+- Developed and applied **custom analysis workflows** to evaluate processability, flow behavior, and mechanical response of modified polymeric materials  
 
-**Collaborative Contributions**
+- Implemented **molecular dynamics simulations (HPC-enabled)** to quantify how compositional changes influence transport, viscosity, thermal behavior, and structural organization  
 
-- Worked with project team to refine and apply asphalt simulation models for binder modification studies.
+### Collaborative Contributions
 
-- Contributed to joint interpretation of **simulation results and material testing outcomes**.
+- Collaborated with research team to refine and apply **computational models for multicomponent material systems**  
 
-## Key Discoveries
+- Contributed to integrated interpretation of **simulation outputs and experimental material testing results**  
 
-- Demonstrated that overestimation of mixing and compaction temperatures in asphalt surfacing can be corrected by **accurately modeling asphalt flow behavior as non-Newtonian** rather than Newtonian.
+---
 
-- Showed that bio-oil fatty acids can be incorporated into asphalt binders without compromising construction performance or **long-term material properties.**
+## Key Findings
+
+- Demonstrated that asphalt binder flow behavior is inherently **non-Newtonian**, and that accounting for this behavior improves prediction of processing conditions such as mixing and compaction temperatures  
+
+- Showed that incorporation of bio-derived modifiers can improve sustainability while maintaining **mechanical performance and long-term material stability**  
+
+- Established relationships between **molecular composition, transport behavior, and macroscopic processability** in complex polymer systems  
+
+---
 
 ## Associated Publications / Output
 
