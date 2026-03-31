@@ -1,4 +1,4 @@
-# Improved Medical Device Sterilization via Vaporized Hydrogen Peroxide (VHP)
+# Transport and Reaction Modeling in Polymeric Systems for Sterilization and Material Performance
 
 **Project duration:** November 2022 – Present  
 
