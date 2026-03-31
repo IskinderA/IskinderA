@@ -1,4 +1,4 @@
-# Green Asphalt Material Design
+# Structure–Property Relationships in Complex Polymer Materials
 
 **Project duration:** January 2016 – May 2020
 
