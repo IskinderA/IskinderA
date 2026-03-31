@@ -1,4 +1,4 @@
-# Predicting Molecular Transport in Polymer Systems Using Machine Learning
+# Data-Driven Prediction of Molecular Transport in Polymer Systems
 
 **Project duration:** September, 2025 – Present  
 
