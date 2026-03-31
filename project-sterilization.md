@@ -40,7 +40,7 @@ Collaborative Contributions
 
 ## Associated Publications / Output
 
-- **Iskinder Arsano**, Yunzhi Liu, Sara Linden, Maruti N. Sinha, Ioan P. I. Gitsov, Kimberly A. Chaffin, Jon W. Weeks, Michael Eppihimer, and David M. Saylor. *Modeling hydrogen peroxide migration through medical device polymers during vapor phase sterilization.* In progress (2025).  
+- **Iskinder Arsano**, Yunzhi Liu, Sara Linden, Maruti N. Sinha, Ioan P. I. Gitsov, Kimberly A. Chaffin, Jon W. Weeks, Michael Eppihimer, and David M. Saylor. *Modeling hydrogen peroxide migration through medical device polymers during vapor phase sterilization.* In progress (2025).  **Iskinder Arsano**, Yunzhi Liu, Sara B. Linden, Maruti N. Sinha, Ioan P. I. Gitsov, Kimberly A. Chaffin, Jon W. Weeks, Michael Eppihimer, and David M. Saylor. *Modeling Hydrogen Peroxide Migration through Medical Device Polymers during Vapor Phase Sterilization.* Under internal FDA review; intended submission to Journal of Biomedical Materials Research Part B: Applied Biomaterials (2025). 
 
 - Online regulatory science tool in development.
 
