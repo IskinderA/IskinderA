@@ -8,7 +8,7 @@
 
 ### My Contributions
 
-- Developed data-driven models to predict **solute diffusivity** in polymer systems using curated experimental datasets  
+- Developed data-driven models to predict **solute diffusivity** in polymer systems using existing curated experimental datasets  
 
 - Designed and implemented **machine learning frameworks** (quantile random forests and neural networks) to estimate transport behavior across polymer–solute–solvent systems  
 
@@ -20,15 +20,13 @@
 
 ### Collaborative Contributions  
 
-- Contributed to dataset curation and harmonization across multiple experimental sources  
+- Addtional contributions anticipated to dataset curation/augmentation/improvement and harmonization across multiple experimental sources  
 
-- Collaborated with interdisciplinary teams to align modeling outputs with **experimental observations and application-relevant scenarios**  
-
-- Supported development of modeling tools for **screening and evaluation of material systems**  
+- Collaborations anticipated with interdisciplinary teams to further align data-driven prediction outputs with **empiricial observations and application-relevant scenarios**  
 
 ---
 
-## Key Findings
+## Key Findings (Tentative)
 
 - Demonstrated that machine learning models can predict **order-of-magnitude diffusivity** across diverse polymer systems without system-specific calibration  
 
@@ -42,8 +40,7 @@
 
 ## Associated Publications / Output
 
-- **Iskinder Arsano**, Robert M. Elder, Michael Eppihimer, Jon W. Weeks, and David M. Saylor.  
-  *Predicting Solute Diffusivity in Swollen Polymer Systems Using Quantile Random Forests and Neural Networks.*  
+- **Iskinder Arsano**, Robert M. Elder, Michael Eppihimer, Jon W. Weeks, and David M. Saylor. *Predicting Solute Diffusivity in Swollen Polymer Systems Using Quantile Random Forests and Neural Networks.*  
   In preparation (2025)  
 
-- Predictive modeling workflow and dataset curation tools in development  
+- Predictive modeling workflow and patient exposure screening tools in development  
