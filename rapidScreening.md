@@ -40,7 +40,6 @@
 
 ## Associated Publications / Output
 
-- **Iskinder Arsano**, Robert M. Elder, Michael Eppihimer, Jon W. Weeks, and David M. Saylor. *Predicting Solute Diffusivity in Swollen Polymer Systems Using Quantile Random Forests and Neural Networks.*  
-  In preparation (2025)  
+- **Iskinder Arsano**, Robert M. Elder, Michael Eppihimer, Jon W. Weeks, and David M. Saylor. *Predicting Solute Diffusivity in Swollen Polymer Systems Using Quantile Random Forests and Neural Networks.* In preparation (2025)  
 
-- Predictive modeling workflow and patient exposure screening to
+- Predictive modeling workflow and patient exposure screening tool
