@@ -7,16 +7,6 @@ I am a materials and polymer scientist with a Ph.D. from the University of Akron
 
 Prior to this work, my research explored a range of problems in molecular environmental science and materials design. I investigated adsorption and interfacial phenomena using carbon nanotubes to better understand capture mechanisms for organic contaminants, and I studied bio-derived material systems as potential alternatives to conventional asphalt with reduced environmental impact. In parallel, I have contributed to interdisciplinary research on prebiotically plausible amphiphilic systems, examining how molecular structure and environmental conditions drive the formation and stability of cell-like assemblies. Across these efforts, I have developed a broad, quantitative perspective on how molecular-scale interactions translate into material behavior, with an emphasis on integrating mechanistic understanding with predictive modeling to address practical, scientifically grounded problems.
 
-## 📂 Projects
-
-• [Improved medical device sterilization modality via vaporized hydrogen peroxide](project-sterilization.md)
-  
-• [Nanotechnological alternatives to water remediation](project-water.md)
-
-• [‘Green’ asphalt material design](project-asphalt.md)
-
-• [Characterizing primitive membrane formation](project-membranes.md)
-
 ## 🛠️ Technical Skills and Expertise
 
 •	**Materials Science & Transport Phenomena:** Diffusion, partitioning, reaction kinetics, sterilization chemistry, adsorption and contaminant retention, interfacial and surface phenomena, with regulatory-aware understanding of material performance and exposure pathways
@@ -30,6 +20,17 @@ Prior to this work, my research explored a range of problems in molecular enviro
 •	**Data Science & Machine Learning:** NumPy, Pandas, SciPy, Matplotlib, statistical modeling and fitting, machine learning for predictive modeling of material behavior and transport
 
 •	**Technical Communication & Tools:** Scientific writing, technical reporting, structured documentation, Git, LaTeX; operating systems: MacOS, Linux, Windows
+
+## 📂 Projects
+
+• [Improved medical device sterilization modality via vaporized hydrogen peroxide](project-sterilization.md)
+  
+• [Nanotechnological alternatives to water remediation](project-water.md)
+
+• [‘Green’ asphalt material design](project-asphalt.md)
+
+• [Characterizing primitive membrane formation](project-membranes.md)
+
 
 ## 💡 Open to Opportunites and Service
 
