@@ -3,9 +3,9 @@ Hi, I'm Iskinder! This page is a snapshot of my professional journey — past ex
 
 ## 🔬 Research Summary
 
-I am a materials and polymer scientist with a PhD from the University of Akron and many years of experience across academic as well as regulatory settings. My current role as a research fellow at the U.S. FDA focuses on sterilant transport through polymeric materials — a cross-disciplinary project involving materials chemistry, regulatory standards, and applied mathematics.
+I am a materials and polymer scientist with a Ph.D. from the University of Akron, with experience spanning both academic research and regulatory science. My work centers on understanding how molecular interactions, material properties, and environmental conditions govern transport, stability, and performance in complex systems. In my current role as a research fellow at the U.S. FDA, I focus on sterilant transport through polymeric materials, developing mechanistic frameworks that connect material chemistry, device-relevant conditions, and quantitative modeling to evaluate system-level behavior. More recently, I have expanded this work to include data-driven approaches, developing machine learning models to predict molecular transport properties across polymer systems.
 
-Prior to moving into this regulatory scientist role within a sterility and infection control program, I worked on two environmental molecular science projects. The first involved a physical chemistry study of the optimum surface capture of benzoic acid, a common water pollutant, using carbon nanotubes. The second involved the molecular design of viable bio-oil material substituents to traditional asphalt materials, which are known to have a large carbon footprint. More recently, I have been a part of a highly interdisciplinary and exploratory/basic scientific research on prebiotically plausible cell-like structures with the goal of testing hypotheses on the origin of life on Early Earth and potentially elsewhere in the universe.
+Prior to this work, my research explored a range of problems in molecular environmental science and materials design. I investigated adsorption and interfacial phenomena using carbon nanotubes to better understand capture mechanisms for organic contaminants, and I studied bio-derived material systems as potential alternatives to conventional asphalt with reduced environmental impact. In parallel, I have contributed to interdisciplinary research on prebiotically plausible amphiphilic systems, examining how molecular structure and environmental conditions drive the formation and stability of cell-like assemblies. Across these efforts, I have developed a broad, quantitative perspective on how molecular-scale interactions translate into material behavior, with an emphasis on integrating mechanistic understanding with predictive modeling to address practical, scientifically grounded problems.
 
 ## 📂 Projects
 
@@ -17,7 +17,7 @@ Prior to moving into this regulatory scientist role within a sterility and infec
 
 • [Characterizing primitive membrane formation](project-membranes.md)
 
-## 🛠️ Technical Skills
+## 🛠️ Technical Skills and Expertise
 
 •	**Sterilization & Surface Chemistry:** Chemical sterilization of medical devices; adsorption and contaminant retention on complex surfaces
 
@@ -33,11 +33,11 @@ Prior to moving into this regulatory scientist role within a sterility and infec
 
 ## 💡 Open to Opportunites and Service
 
-I’m interested in opportunities where I can apply my expertise in **materials science, polymers, and data-driven modeling** to solve real-world challenges.  
+I’m interested in opportunities where I can apply my expertise in **materials science, polymers, and/or data-driven modeling** to solve real-world challenges.  
 
 I enjoy roles that combine **applied R&D, regulatory science, sustainable materials innovation, and computational analysis**, especially in collaborative, interdisciplinary environments.  
 
-I am open to contributing to projects that advance **product reliability, scientific consulting, or innovative problem-solving**, helping organizations turn experimental insights into actionable solutions.
+I am open to contributing to projects that advance **product reliability, regulatory compliance, scientific consulting, or innovative problem-solving**, helping organizations turn experimental insights into actionable solutions.
 
 I also **welcome requests for professional service** including journal review, conference organization etc. from editors and others. So far, I have served as a peer reviewer for the following materials science and biophysics journals: Journal of Colloid and Interface Science (2 reviews), Journal of Physics and Chemistry of Solids (1 review), Progress in Biophysics and Molecular Biology (2 reviews), Materials Chemistry and Physics (2 reviews), Journal of Environmental Chemical Engineering (2 reviews). 
 
