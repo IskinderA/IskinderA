@@ -4,27 +4,33 @@
 
 ## Roles & Contributions
 
-**My Contributions**
+### My Contributions
 
-- Designed and executed support simulations of **fatty acid and phospholipid assembly** in the context of primitive cell formation.
+- Designed and performed **molecular simulations (HPC-enabled)** to study self-assembly of amphiphilic systems relevant to membrane formation  
 
-- Explored **solvation models (implicit and explicit)** to test how cosurfactants like octanoic acid could stabilize primitive membranes.
+- Evaluated **implicit and explicit solvation models** to understand how environmental conditions and cosurfactants (e.g., octanoic acid) influence structural stability  
 
-- Calculated critical packing parameters to demonstrate the stabilizing effects of simple cosurfactants on **membrane formation.**
+- Quantified system behavior using **critical packing parameter analysis** to relate molecular geometry to phase behavior and membrane formation  
 
-**Collaborative Contributions**
+### Collaborative Contributions
 
-- Integration of solvation theoretical predictions with observations from **microsopy, spectrometry and organic synthesis.** 
+- Contributed to integration of simulation results with **experimental observations** from microscopy, spectroscopy, and organic synthesis  
 
-- Contributed simulation insights to the discovery that amino acids and fatty acids can cooperatively assemble into novel, chemically simple, and prebiotically plausible membrane structures.
+- Supported interdisciplinary efforts demonstrating cooperative interactions between **amino acids and fatty acid systems** in forming stable assemblies  
 
-- Supported broader hypotheses about the origins of life and astrobiological plausibility of **primitive cell-like structures.**
+- Contributed to broader interpretation of results in the context of **self-assembly mechanisms and chemically simple membrane systems**  
 
-## Key Discoveries
+---
 
-- Both implicit and explicit solvation models suggest that octanoic acid at ≤ equimolar ratios stabilizes primitive membranes — evidenced by critical packing parameter calculations.
+## Key Findings
 
-- Amino acids can synergize with fatty acids to form stable, prebiotically plausible membranes, offering new perspectives on primitive cell formation on Early Earth and beyond.
+- Demonstrated that cosurfactants at near-equimolar ratios can significantly enhance **stability and robustness of amphiphilic assemblies**, consistent across implicit and explicit solvation models  
+
+- Established that cooperative interactions between amino acids and fatty acids enable formation of **stable, self-assembled membrane structures** under a wide range of conditions  
+
+- Linked **molecular structure and packing behavior** to macroscopic phase stability using critical packing parameter analysis  
+
+---
 
 ## Associated Publications / Output
 
