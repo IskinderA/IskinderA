@@ -1,4 +1,5 @@
 # Structure–Property Relationships in Complex Polymer Materials
+*A framework for how composition influences transport, flow behavior, and performance in multicomponent polymer systems*
 
 **Project duration:** January 2016 – May 2020
 
