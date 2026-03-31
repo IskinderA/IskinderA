@@ -1,4 +1,4 @@
-# Characterizing Primitive Membrane Formation
+# Self-Assembly and Stability of Amphiphilic Systems in Complex Environments
 
 **Project duration:** September 2020 – March 2023
 
