@@ -1,4 +1,5 @@
 # Molecular Interactions and Adsorption at Material Interfaces
+*A combined simulation–experimental study of how molecular interactions and surface properties govern adsorption, partitioning, and interfacial behavior*
 
 **Project duration:** September 2016 – July 2022  
 
