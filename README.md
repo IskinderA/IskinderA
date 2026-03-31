@@ -19,17 +19,17 @@ Prior to this work, my research explored a range of problems in molecular enviro
 
 ## 🛠️ Technical Skills and Expertise
 
-•	**Sterilization & Surface Chemistry:** Chemical sterilization of medical devices; adsorption and contaminant retention on complex surfaces
+•	**Materials Science & Transport Phenomena:** Diffusion, partitioning, reaction kinetics, sterilization chemistry, adsorption and contaminant retention, interfacial and surface phenomena, with regulatory-aware understanding of material performance and exposure pathways
 
-•	**Materials Characterization & Testing:** mechanical/processability testing, surface mass density measurement, adsorption isotherms (e.g., Freundlich model), microscopy, spectrometry
+•	**Materials Characterization & Experimental Methods:** Mechanical and processability testing, adsorption isotherms (e.g., Freundlich models), surface mass density measurements, microscopy and spectrometry techniques, supporting lifecycle-informed material evaluation 
 
-•	**Materials Design & Simulation:** Structure–property analysis of polymers and nanocomposites; molecular dynamics (LAMMPS, GROMACS); quantum calculations (Q-CHEM); finite-volume and diffusion modeling
+•	**Modeling & Simulation:** Molecular dynamics (LAMMPS, GROMACS), quantum calculations (Q-CHEM), finite-volume and diffusion modeling, structure–property analysis of polymers and nanostructured systems, with emphasis on model-informed and decision-relevant insights
 
-•	**Programming & Analytical Tools:** Python, Fortran, Bash, Jupyter, Mathematica, Matlab, Excel
+•	**Programming & Scientific Computing:** Python, MATLAB, Fortran, Bash, Mathematica, Jupyter, Excel
 
-•	**Data Science & Visualization:** NumPy, Pandas, Matplotlib, SciPy, statistical fitting, machine learning applications
+•	**Data Science & Machine Learning:** NumPy, Pandas, SciPy, Matplotlib, statistical modeling and fitting, machine learning for predictive modeling of material behavior and transport
 
-•	**Technical Writing & Platforms:** Scientific writing, stakeholder reporting, Git, LaTeX; operating systems: Linux and Windows
+•	**echnical Communication & Tools:** Scientific writing, technical reporting, structured documentation, Git, LaTeX; operating systems: Linux and Windows
 
 ## 💡 Open to Opportunites and Service
 
