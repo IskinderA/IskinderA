@@ -6,31 +6,31 @@
 
 ## Roles & Contributions
 
-**My Contributions**  
+### My Contributions  
 
-- Drew conclusions about the selective **contaminant extraction function** of pure and surface-modified carbon nanotubes based on analysis of interfacial adsorptive structure and dynamics.
-  
-- **Set up simulation systems** capturing curved adsorption phenomena at the atomic scale for efficient computation with LAMMPS.
-  
-- Wrote, tested, and employed **de-novo analysis scripts** to characterize how water, small molecule contaminants (mainly benzoic acid, but also naphthoic and anthroic acids), and carbon nanotube surfaces interact.
+- Investigated interfacial adsorption mechanisms to characterize the **selective capture of small-molecule contaminants** on pristine and surface-modified carbon nanotubes  
 
-**Collaborative Contributions**  
+- Designed and implemented **molecular simulation systems** to capture curved surface adsorption phenomena at the atomic scale using atomistic simulations (HPC-enabled)  
 
-- Conducted wet-lab experiments to validate simulation predictions.
-  
-- Provided sorption capacity measurements from isotherm studies.
-  
-- Collaborated on joint interpretation of simulation and experimental data to confirm selective contaminant capture.
+- Developed and applied **custom analysis workflows** to quantify structure, mobility, and interaction dynamics of water, organic molecules (e.g., benzoic, naphthoic, and anthroic acids), and carbon-based materials  
+
+### Collaborative Contributions  
+
+- Contributed to experimental validation through **wet-lab adsorption and isotherm studies**  
+
+- Supported measurement and analysis of **sorption capacity and equilibrium behavior**  
+
+- Collaborated on integrated interpretation of simulation and experimental results to confirm **structure–function relationships in adsorption behavior**  
 
 ---
 
-## Key Discoveries
+## Key Findings
 
-- Minor surface modification (~1% of surface carbons) via carboxylic functional groups is sufficient to induce **optimum surface capture of benzoic acid**.  
+- Demonstrated that minimal surface modification (~1% functionalization) can significantly enhance **selective adsorption and retention of aromatic molecules**  
 
-- Benzoic acid is captured more efficiently on grooves of single-walled carbon nanotube bundles than on multi-walled carbon nanotube surfaces.
-  
-- Findings supported by **molecular dynamics simulations** and **experimental isotherm studies**, linking binding potential and sorption capacity.
+- Identified the role of nanoscale geometry, showing that **high-energy binding sites in nanotube bundle grooves** enable stronger adsorption than planar or multi-walled surfaces  
+
+- Established quantitative links between **molecular interactions, adsorption structure, and macroscopic sorption behavior** through combined simulation and experimental approaches  
 
 ---
 
@@ -43,4 +43,7 @@
 3. Li, S.; De Silva, T.; **Arsano, I.**; Gallaba, D.; Karunanithy, R.; Wasala, M.; Zhang, X.; Sivakumar, P.; Migone, A.; Tsige, M.; Ma, X.; Talapatra, S. *High Adsorption of Benzoic Acid on Single Walled Carbon Nanotube Bundles.* Sci. Rep. 2020, 10 (1). [Available via Nature Scientific Reports (free of charge)](https://www.nature.com/articles/s41598-020-66871-4).
    
 4. Li, S.; **Arsano, I.**; Talapatra, S.; Tsige, M.; Ma, X. *Adsorption of Aromatic Carboxylic Acids on Carbon Nanotubes: Impact of Surface Functionalization, Molecular Size and Structure.* Environ. Sci. Process. Impacts 2019, 21 (12), 2109–2117. [Available via Royal Society of Chemistry Envrironmental Science (free of charge)](https://pubs.rsc.org/en/content/articlepdf/2019/em/c9em00417c?casa_token=2jDgbF8IaC4AAAAA:nCWVaZDKH4jtI41CizHBSQhHLpQqE2XHenuaCrmdl2NZLVnvAmDftRiDzrtViBikfP8Z3qovgobuczg).
+
+
+
 
