@@ -1,4 +1,5 @@
 # Data-Driven Prediction of Molecular Transport in Polymer Systems
+*A machine learning approach for predicting molecular diffusion and transport behavior across complex polymer–solute–solvent systems*
 
 **Project duration:** September, 2025 – Present  
 
