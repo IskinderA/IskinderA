@@ -1,4 +1,6 @@
 # Transport and Reaction Modeling in Polymeric Systems for Sterilization and Material Performance
+* A physics-based framework linking material properties, geometry, and process conditions to molecular transport, exposure, and system-level performance *
+
 
 **Project duration:** November 2022 – Present  
 
