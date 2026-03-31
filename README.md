@@ -44,13 +44,13 @@ I also welcome opportunities for **professional service and collaboration**, inc
 
 In my downtime, I enjoy activities that fuel creativity, community, and curiosity:  
 
-• Active in amateur and semi-professional music ensembles in the Washington, DC area and NE Ohio 
+• I spend a lot of time exploring jazz theory and playing in amateur ensembles, both as a creative outlet and a way to stay musically curious. 
 
-• Engaged with local volunteer and secular discussion groups  
+• I enjoy engaging with local volunteer and secular discussion groups.  
 
-• Passionate about promoting public awareness of science and advocating for the separation of religion and government 
+• I am also interested in public engagement with science and conversations around the role of science in society. 
 
-• Finally, I get the most joy out of spoiling my two cats, Helena and Harmony
+• Finally, I get the most joy out of spoiling my two cats, Helena and Harmony.
 
 
 ## 📫 Contact
